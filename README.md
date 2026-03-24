@@ -1,3 +1,5 @@
+![Recommendation System Pipeline](pipeline.png)
+
 # End-to-End Recommendation System (Two-Tower + FAISS + Ranking)
 
 This project implements a scalable and production-oriented recommendation system using a Two-Tower neural architecture, FAISS-based retrieval, and a neural ranking model.
